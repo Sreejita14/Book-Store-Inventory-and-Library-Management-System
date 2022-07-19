@@ -20,12 +20,14 @@ The admin page will open up with a greeting and Admin’s name along with variou
 	Search: Admin can search books either by writing the name of the book or a part of the name, the system will show all the books starting with that name or having a part of that name. Admin can also select any genre that will automatically get updated every time a book is being added with a specific genre and search books with ease.
   
   Request Orders: Admin can place book orders to all the vendors available/associated with this book shop. The vendor list will automatically get updated every time a vendor is added to the system. Admin can also check whether a book is already requested or not. Apart from this admin can update and delete specific orders.
+  
 3.	Member: 
 Buy Membership: Admin adds all details of a customer who wants to become a member of the shop with a specified package and generates a one-time membership id for the customer.
   
 View Members: Admin can view, update and delete the member details and not the package details.
 
 View Issued Books: Admin can provide a membership id and view all the books issued by the member(active issues).
+
 4.	Buy Books:
 
 General: Add the ISBN of the book. On clicking view it will show all the details of the book if stock is available else it will show “Stock Unavailable”. If the customer asks for a particular book that has supposed 100 stocks available but the customer asks for 150 copies of that book the system will show a message displaying the total number of stocks available in the system ie. 100. Add the phone number of the customer and check if the customer has previously purchased a book or not. If the customer is present in the database automatically the details will be displayed. Click on generate bill to generate a bill with shop information, time of purchase, name of customer, phone number, and the details of books purchased. Calculate the total and print the bill.
