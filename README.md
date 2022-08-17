@@ -3,6 +3,7 @@ Designed an end to end book store inventory system to perform CRUD operations on
 
 The entire execution of the project starts from BookInventoryLibraryManagementSystem class. The first page has the login/Signup options available.
 Signup :
+
 1.	Enter admin ID as provided by shop owner/any other official id 
 2.	The username should be unique. If a username exists in the system from beforehand a warning will be shown to change the username.
 3.	Name, email id and phone number, password, and answer to security question should be provided in the specified/default format otherwise warning will be displayed.
