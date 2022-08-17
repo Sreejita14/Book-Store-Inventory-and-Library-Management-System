@@ -2,7 +2,9 @@
 Designed an end to end book store inventory system to perform CRUD operations on Books and Users (Staff, Vendors). Functionalities include search books, placing order, categorized membership package with invoice-generation, stock updating. Querying database for generation of statistical reports, viewing transaction history, order  requests. Additional library management allowing issue/return of Books(members), charging late fines and readers’ zone.
 
 The entire execution of the project starts from BookInventoryLibraryManagementSystem class. The first page has the login/Signup options available.
+
 Signup :
+
 Enter admin ID as provided by shop owner/any other official id .
 
 The username should be unique. If a username exists in the system from beforehand a warning will be shown to change the username.
